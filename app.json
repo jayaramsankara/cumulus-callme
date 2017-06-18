@@ -1,6 +1,6 @@
 {
-    "name": "A Web Form to capture data and invoke a CCX http trigger that inturn triggers call back"
-    "repository": "https://github.com/jayaramsankara/cumulus-callme",
+    "name": "callme-cumulus"
+    "repository": "https://github.com/jayaramsankara/cumulus-callme.git",
     "env": {
         "ELM_COMPILE": "elm make src/Callback.elm --output callback.js"
     },
